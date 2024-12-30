@@ -1,0 +1,81 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1av-d2-WRm"; */
+"1av-d2-WRm.text" = "Label";
+
+/* Class = "UITextView"; text = "Welcome to Tiger Blaze Saga, the ultimate tiger-themed gaming experience! Immerse yourself in an adventurous jungle world with three exciting and unique games, each designed to challenge your skills, reflexes, and strategy.\n\n🟠 Tiger Dash: Navigate the grid, collect food, and avoid dangerous obstacles in this swiping strategy game. Master your moves to conquer levels and climb the leaderboard.\n\n🟡 Tiger Sprint: Sprint through the jungle as a tiger cub, collecting prey and power-ups while dodging predators and obstacles. Can you survive the race and achieve the highest score?\n\n🔵 Tiger Adventure: Embark on a thrilling journey where you avoid obstacles, collect power-ups, and strive to beat the increasing difficulty. With stunning visuals and immersive gameplay, this adventure will keep you on the edge of your seat!\n\nAt Tiger Blaze Saga, we are passionate about creating thrilling, action-packed games that bring players closer to the majesty of tigers while providing endless fun. With stunning graphics, intuitive controls, and addictive gameplay, our app is a must-have for gaming enthusiasts."; ObjectID = "4vz-MY-r45"; */
+"4vz-MY-r45.text" = "Welcome to Tiger Blaze Saga, the ultimate tiger-themed gaming experience! Immerse yourself in an adventurous jungle world with three exciting and unique games, each designed to challenge your skills, reflexes, and strategy.\n\n🟠 Tiger Dash: Navigate the grid, collect food, and avoid dangerous obstacles in this swiping strategy game. Master your moves to conquer levels and climb the leaderboard.\n\n🟡 Tiger Sprint: Sprint through the jungle as a tiger cub, collecting prey and power-ups while dodging predators and obstacles. Can you survive the race and achieve the highest score?\n\n🔵 Tiger Adventure: Embark on a thrilling journey where you avoid obstacles, collect power-ups, and strive to beat the increasing difficulty. With stunning visuals and immersive gameplay, this adventure will keep you on the edge of your seat!\n\nAt Tiger Blaze Saga, we are passionate about creating thrilling, action-packed games that bring players closer to the majesty of tigers while providing endless fun. With stunning graphics, intuitive controls, and addictive gameplay, our app is a must-have for gaming enthusiasts.";
+
+/* Class = "UILabel"; text = "Tiger Sprint"; ObjectID = "CRY-2b-W5O"; */
+"CRY-2b-W5O.text" = "Tiger Sprint";
+
+/* Class = "UINavigationItem"; title = "About Us"; ObjectID = "D7r-cu-neL"; */
+"D7r-cu-neL.title" = "About Us";
+
+/* Class = "UILabel"; text = "Tiger Adventure"; ObjectID = "Dwh-C1-YbT"; */
+"Dwh-C1-YbT.text" = "Tiger Adventure";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "G6W-JY-P5U"; */
+"G6W-JY-P5U.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "HJQ-FQ-afg"; */
+"HJQ-FQ-afg.text" = "Privacy Policy";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "KeF-Ha-hzm"; */
+"KeF-Ha-hzm.text" = "Score";
+
+/* Class = "UILabel"; text = "Your Message"; ObjectID = "LVw-ll-Z78"; */
+"LVw-ll-Z78.text" = "Your Message";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "LsS-Jv-cVc"; */
+"LsS-Jv-cVc.text" = "Setting";
+
+/* Class = "UILabel"; text = "About us"; ObjectID = "NkY-Zs-u75"; */
+"NkY-Zs-u75.text" = "About us";
+
+/* Class = "UILabel"; text = "Rate us"; ObjectID = "Q01-yJ-0wy"; */
+"Q01-yJ-0wy.text" = "Rate us";
+
+/* Class = "UILabel"; text = "Lives"; ObjectID = "Qx3-8x-fBf"; */
+"Qx3-8x-fBf.text" = "Lives";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "Xwo-wB-WqJ"; */
+"Xwo-wB-WqJ.text" = "Score";
+
+/* Class = "UILabel"; text = "Rate us"; ObjectID = "cHp-oA-M5p"; */
+"cHp-oA-M5p.text" = "Rate us";
+
+/* Class = "UILabel"; text = "Tiger Adventure"; ObjectID = "e9H-hx-xta"; */
+"e9H-hx-xta.text" = "Tiger Adventure";
+
+/* Class = "UILabel"; text = "Tiger Sprint"; ObjectID = "eff-2l-6Qg"; */
+"eff-2l-6Qg.text" = "Tiger Sprint";
+
+/* Class = "UILabel"; text = "More Games"; ObjectID = "hyr-py-Bed"; */
+"hyr-py-Bed.text" = "More Games";
+
+/* Class = "UILabel"; text = "Your Email"; ObjectID = "jGF-NH-hhh"; */
+"jGF-NH-hhh.text" = "Your Email";
+
+/* Class = "UITextField"; placeholder = "Share your email, we'll reach out!"; ObjectID = "jOP-Ay-kfv"; */
+"jOP-Ay-kfv.placeholder" = "Share your email, we'll reach out!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kIn-mA-Rnp"; */
+"kIn-mA-Rnp.text" = "Label";
+
+/* Class = "UILabel"; text = "Tiger Dash"; ObjectID = "kiy-Ff-SRT"; */
+"kiy-Ff-SRT.text" = "Tiger Dash";
+
+/* Class = "UILabel"; text = "About us"; ObjectID = "lsh-il-ci1"; */
+"lsh-il-ci1.text" = "About us";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "oJe-mj-Xs4"; */
+"oJe-mj-Xs4.text" = "Message";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "tyU-Di-asW"; */
+"tyU-Di-asW.text" = "Message";
+
+/* Class = "UILabel"; text = "Tiger Dash"; ObjectID = "ufN-7E-wSm"; */
+"ufN-7E-wSm.text" = "Tiger Dash";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "vVb-ww-A2R"; */
+"vVb-ww-A2R.normalTitle" = "Submit";

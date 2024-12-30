@@ -248,7 +248,7 @@
                                                                         <nil key="textColor"/>
                                                                         <nil key="highlightedColor"/>
                                                                     </label>
-                                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="16675187" translatesAutoresizingMaskIntoConstraints="NO" id="AjJ-9k-H3V">
+                                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="RateUs" translatesAutoresizingMaskIntoConstraints="NO" id="AjJ-9k-H3V">
                                                                         <rect key="frame" x="0.0" y="28" width="200" height="25"/>
                                                                     </imageView>
                                                                 </subviews>
@@ -1020,6 +1020,9 @@ At Tiger Blaze Saga, we are passionate about creating thrilling, action-packed g
                                 <color key="tintColor" name="lbl"/>
                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                 <state key="normal" image="back"/>
+                                <connections>
+                                    <action selector="btnBack:" destination="tVH-nB-Vdu" eventType="touchUpInside" id="mgh-hM-1KQ"/>
+                                </connections>
                             </button>
                             <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="white" translatesAutoresizingMaskIntoConstraints="NO" id="ww7-zI-LxC">
                                 <rect key="frame" x="150" y="274" width="20" height="20"/>
@@ -1039,6 +1042,13 @@ At Tiger Blaze Saga, we are passionate about creating thrilling, action-packed g
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="kUD-Wl-uYd"/>
+                    <connections>
+                        <outlet property="backButton" destination="bzu-0X-MKO" id="6Om-g6-n6J"/>
+                        <outlet property="bottomCos" destination="I2Y-md-ikx" id="dPL-vp-N6G"/>
+                        <outlet property="indicatorView" destination="ww7-zI-LxC" id="cKM-f6-Ju1"/>
+                        <outlet property="topCos" destination="ISb-7R-Tai" id="lU1-fR-nj1"/>
+                        <outlet property="webView" destination="cpn-7A-1M9" id="yEY-Gu-jB0"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ctH-wI-1bp" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -1449,6 +1459,9 @@ At Tiger Blaze Saga, we are passionate about creating thrilling, action-packed g
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="8q4-L5-L4W"/>
+                    <connections>
+                        <outlet property="playButton" destination="uMF-kd-o7D" id="UYU-RQ-YCy"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="h5Z-WE-OG1" sceneMemberID="firstResponder"/>
             </objects>
@@ -1766,11 +1779,11 @@ At Tiger Blaze Saga, we are passionate about creating thrilling, action-packed g
     </scenes>
     <resources>
         <image name="11" width="1024" height="1024"/>
-        <image name="16675187" width="128" height="128"/>
-        <image name="Privacy" width="512" height="512"/>
+        <image name="Privacy" width="170.66667175292969" height="170.66667175292969"/>
+        <image name="RateUs" width="170.66667175292969" height="170.66667175292969"/>
         <image name="back" width="343" height="342"/>
         <image name="bg" width="228" height="352"/>
-        <image name="contact" width="512" height="512"/>
+        <image name="contact" width="170.66667175292969" height="170.66667175292969"/>
         <image name="logo" width="500" height="500"/>
         <image name="m1" width="1024" height="1024"/>
         <image name="m2" width="1024" height="1024"/>

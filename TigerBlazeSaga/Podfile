@@ -6,5 +6,6 @@ target 'TigerBlazeSaga' do
   use_frameworks!
 
   # Pods for TigerBlazeSaga
-
+  pod 'Firebase/Messaging'
+  pod 'AppsFlyerFramework'
 end

@@ -1,7 +1,6 @@
 {
   "images" : [
     {
-      "filename" : "gear-icon-set-isolated-background_53876-71277-removebg-preview.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
@@ -10,6 +9,7 @@
       "scale" : "2x"
     },
     {
+      "filename" : "rate.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
@@ -17,8 +17,5 @@
   "info" : {
     "author" : "xcode",
     "version" : 1
-  },
-  "properties" : {
-    "template-rendering-intent" : "original"
   }
 }

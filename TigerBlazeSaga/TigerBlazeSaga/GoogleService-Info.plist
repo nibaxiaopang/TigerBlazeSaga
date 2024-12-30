@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDhJymj8bzTH5tTo4iTg83JKailnt-XuWk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>733999966858</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Monika.TigerBlazeSaga</string>
+	<key>PROJECT_ID</key>
+	<string>tiger-blaze-saga</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tiger-blaze-saga.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:733999966858:ios:96feb2d8c7dac5fbc75b73</string>
+</dict>
+</plist>
